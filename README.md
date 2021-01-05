@@ -1,8 +1,10 @@
-# Kerballoons---Reinflated
-Forked from an original work by joepatrick1
+# KerBalloons
 
-v0.4.3 Release Notes
+#### Description
 
-* Replaced code that prevented KerBalloons from creating a category icon in the KSP editor
-* Moved icon files to the plugin directory
-* Added a manufacturer name to all parts so they could be located by the icon code
+Designed to gather more scientific data in a more controlled fashion than a sounding rocket, Kerballoons are compact, light and can easily be packed with a probe and sent to any planet with an atmosphere. When coupled with [Kerbal Weather Project](https://github.com/cmac994/KerbalWeatherProject), KerBalloons can emulate real-world [weather balloons](https://en.wikipedia.org/wiki/Weather_balloon) by collecting in-situ atmospheric data on Kerbin.
+
+#### Acknowledgements 
+
+Forked from an original work by joepatrick1 and an updatge by Fengist.
+KerBalloons was updated to work with KSP 1.11 by updating assembly references and recompiling in Visual Studio. 
