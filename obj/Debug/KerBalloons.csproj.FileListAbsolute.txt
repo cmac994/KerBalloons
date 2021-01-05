@@ -9,3 +9,4 @@ C:\Users\Conor M\source\repos\Kerballoons\obj\Debug\KerBalloons.csproj.CoreCompi
 C:\Users\Conor M\source\repos\Kerballoons\obj\Debug\KerBalloons.dll
 C:\Users\Conor M\source\repos\Kerballoons\obj\Debug\KerBalloons.pdb
 C:\Users\Conor M\source\repos\Kerballoons\obj\Debug\KerBalloons.csproj.CopyComplete
+C:\Users\Conor M\source\repos\Kerballoons\obj\Debug\KerBalloons.csprojAssemblyReference.cache
