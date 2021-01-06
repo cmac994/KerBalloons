@@ -1,6 +1,6 @@
 # KerBalloons
 
-- ![#f03c15] This mod is superseded by an up to date and improved version of KerBalloons available [here](https://github.com/linuxgurugamer/KerballoonsReinflated). `#f03c15`
+## This mod is superseded by an up to date and improved version of KerBalloons available [here](https://github.com/linuxgurugamer/KerballoonsReinflated).
 
 #### Description
 
