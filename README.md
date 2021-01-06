@@ -1,5 +1,7 @@
 # KerBalloons
 
+This mod is superseded by an up to date and improved version of KerBalloons available [here](https://github.com/linuxgurugamer/KerballoonsReinflated).
+
 #### Description
 
 Designed to gather more scientific data in a more controlled fashion than a sounding rocket, Kerballoons are compact, light and can easily be packed with a probe and sent to any planet with an atmosphere. When coupled with [Kerbal Weather Project](https://github.com/cmac994/KerbalWeatherProject), KerBalloons can emulate real-world [weather balloons](https://en.wikipedia.org/wiki/Weather_balloon) by collecting in-situ atmospheric data on Kerbin.
