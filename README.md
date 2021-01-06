@@ -1,6 +1,8 @@
 # KerBalloons
 
-This mod is superseded by an up to date and improved version of KerBalloons available [here](https://github.com/linuxgurugamer/KerballoonsReinflated).
+```diff
+- This mod is superseded by an up to date and improved version of KerBalloons available [here](https://github.com/linuxgurugamer/KerballoonsReinflated).
+```
 
 #### Description
 
